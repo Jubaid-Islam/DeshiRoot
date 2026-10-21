@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "name": "Green Grape Slices",
+    "price": 279,
+    "description": "Sweet and tangy natural snack",
+    "image": "/images/grape.jpeg",
+    "inStock": 45,
+    "likes": 128,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "availability": "In Stock",
+    "supplierEmail": "supplier.grapes@deshiroot.com",
+    "comments": [
+      {
+        "id": "c101",
+        "userName": "Tanvir Ahmed",
+        "userAvatar": "https://i.pravatar.cc/150?u=tanvir",
+        "rating": 5,
+        "comment": "Very crisp and naturally sweet! Perfect for daily tea time snacks."
+      },
+      {
+        "id": "c102",
+        "userName": "Savia Rahman",
+        "userAvatar": "https://i.pravatar.cc/150?u=savia",
+        "rating": 5,
+        "comment": "Fast delivery and fresh packaging. Loved the taste!"
+      },
+      {
+        "id": "c103",
+        "userName": "Abrar Chowdhury",
+        "userAvatar": "https://i.pravatar.cc/150?u=abrar",
+        "rating": 4,
+        "comment": "Taste is good, but quantity could be slightly more."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mixed Citrus Slices",
+    "price": 199,
+    "description": "Zesty, vibrant, and refreshing",
+    "image": "/images/citrus.jpg",
+    "inStock": 60,
+    "likes": 215,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "availability": "In Stock",
+    "supplierEmail": "supplier.citrus@deshiroot.com",
+    "comments": [
+      {
+        "id": "c201",
+        "userName": "Nusrat Jahan",
+        "userAvatar": "https://i.pravatar.cc/150?u=nusrat",
+        "rating": 5,
+        "comment": "Great mix of orange and lime slices. Adds an awesome flavor to detox water."
+      },
+      {
+        "id": "c202",
+        "userName": "Kazi Fahim",
+        "userAvatar": "https://i.pravatar.cc/150?u=fahim",
+        "rating": 5,
+        "comment": "High quality dehydration. Absolutely no artificial bitterness."
+      },
+      {
+        "id": "c203",
+        "userName": "Mehnaz Islam",
+        "userAvatar": "https://i.pravatar.cc/150?u=mehnaz",
+        "rating": 4,
+        "comment": "Packaging was super neat. Will order again!"
+      },
+      {
+        "id": "c204",
+        "userName": "Rifat Hossain",
+        "userAvatar": "https://i.pravatar.cc/150?u=rifat",
+        "rating": 5,
+        "comment": "Best dried fruit mix I have ordered online so far."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lemon Slices",
+    "price": 180,
+    "description": "Perfectly tart for tea time",
+    "image": "/images/lemon.jpeg",
+    "inStock": 25,
+    "likes": 94,
+    "rating": 4.7,
+    "reviewCount": 14,
+    "availability": "In Stock",
+    "supplierEmail": "supplier.lemon@deshiroot.com",
+    "comments": [
+      {
+        "id": "c301",
+        "userName": "Mahmudul Hasan",
+        "userAvatar": "https://i.pravatar.cc/150?u=mahmud",
+        "rating": 5,
+        "comment": "Essential for black tea lovers! Gives an authentic lemon aroma."
+      },
+      {
+        "id": "c302",
+        "userName": "Farzana Yeasmin",
+        "userAvatar": "https://i.pravatar.cc/150?u=farzana",
+        "rating": 4,
+        "comment": "Nice slice thickness and completely dried properly."
+      },
+      {
+        "id": "c303",
+        "userName": "Sajid Khan",
+        "userAvatar": "https://i.pravatar.cc/150?u=sajid",
+        "rating": 5,
+        "comment": "Super refreshing in cold brewed water during summer."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sundarban Honey",
+    "price": 312,
+    "description": "Raw, pure, and wild harvested",
+    "image": "/images/honey.jpeg",
+    "inStock": 15,
+    "likes": 340,
+    "rating": 5.0,
+    "reviewCount": 56,
+    "availability": "In Stock",
+    "supplierEmail": "honey.sundarban@deshiroot.com",
+    "comments": [
+      {
+        "id": "c401",
+        "userName": "Dr. Shafiqul Alam",
+        "userAvatar": "https://i.pravatar.cc/150?u=shafiq",
+        "rating": 5,
+        "comment": "100% genuine raw honey scent. Highly recommended for daily health routine."
+      },
+      {
+        "id": "c402",
+        "userName": "Tasmia Binte Rashed",
+        "userAvatar": "https://i.pravatar.cc/150?u=tasmia",
+        "rating": 5,
+        "comment": "Thick texture and natural floral aroma. Best wild honey!"
+      },
+      {
+        "id": "c403",
+        "userName": "Imtiaz Karim",
+        "userAvatar": "https://i.pravatar.cc/150?u=imtiaz",
+        "rating": 5,
+        "comment": "Authentic Sundarban honey taste with zero sugar adulteration."
+      },
+      {
+        "id": "c404",
+        "userName": "Anika Tabassum",
+        "userAvatar": "https://i.pravatar.cc/150?u=anika",
+        "rating": 5,
+        "comment": "Packaged very safely in glass jar. Zero leakage."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Green Lime Slices",
+    "price": 180,
+    "description": "Crisp citrus with a tart finish",
+    "image": "/images/lime.jpeg",
+    "inStock": 30,
+    "likes": 88,
+    "rating": 4.6,
+    "reviewCount": 11,
+    "availability": "In Stock",
+    "supplierEmail": "supplier.citrus@deshiroot.com",
+    "comments": [
+      {
+        "id": "c501",
+        "userName": "Nahid Parvez",
+        "userAvatar": "https://i.pravatar.cc/150?u=nahid",
+        "rating": 5,
+        "comment": "Very crisp texture. Smells amazing right out of the pouch."
+      },
+      {
+        "id": "c502",
+        "userName": "Zarin Subah",
+        "userAvatar": "https://i.pravatar.cc/150?u=zarin",
+        "rating": 4,
+        "comment": "Good quality green limes. Perfect for cocktail and mocktail garnishing."
+      },
+      {
+        "id": "c503",
+        "userName": "Arif Shuvo",
+        "userAvatar": "https://i.pravatar.cc/150?u=arif",
+        "rating": 5,
+        "comment": "Delivered in Chattogram in just 2 days. Great service!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Strawberry Slices",
+    "price": 279,
+    "description": "Naturally sweet and fruity",
+    "image": "/images/strawberry.jpeg",
+    "inStock": 10,
+    "likes": 192,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "availability": "Low Stock",
+    "supplierEmail": "supplier.berries@deshiroot.com",
+    "comments": [
+      {
+        "id": "c601",
+        "userName": "Sadiya Sultana",
+        "userAvatar": "https://i.pravatar.cc/150?u=sadiya",
+        "rating": 5,
+        "comment": "My kids love these as healthy snack alternatives!"
+      },
+      {
+        "id": "c602",
+        "userName": "Shahriar Ahmed",
+        "userAvatar": "https://i.pravatar.cc/150?u=shahriar",
+        "rating": 5,
+        "comment": "Tastes awesome with oatmeal and yogurt in breakfast."
+      },
+      {
+        "id": "c603",
+        "userName": "Lamia Chowdhury",
+        "userAvatar": "https://i.pravatar.cc/150?u=lamia",
+        "rating": 4,
+        "comment": "Natural strawberry flavor retained nicely."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Deglet Noor Dates",
+    "price": 210,
+    "description": "Soft, rich, and naturally caramel",
+    "image": "/images/dates.jpg",
+    "inStock": 50,
+    "likes": 260,
+    "rating": 4.9,
+    "reviewCount": 41,
+    "availability": "In Stock",
+    "supplierEmail": "dates.import@deshiroot.com",
+    "comments": [
+      {
+        "id": "c701",
+        "userName": "Maksudul Haque",
+        "userAvatar": "https://i.pravatar.cc/150?u=maksud",
+        "rating": 5,
+        "comment": "Moist, soft and authentic Deglet Noor quality dates."
+      },
+      {
+        "id": "c702",
+        "userName": "Nabila Siddique",
+        "userAvatar": "https://i.pravatar.cc/150?u=nabila",
+        "rating": 5,
+        "comment": "Very clean packaging. Perfect natural sweetener for smoothies."
+      },
+      {
+        "id": "c703",
+        "userName": "Ziaur Rahman",
+        "userAvatar": "https://i.pravatar.cc/150?u=zia",
+        "rating": 4,
+        "comment": "Value for money product. Recommended!"
+      },
+      {
+        "id": "c704",
+        "userName": "Jannatul Ferdous",
+        "userAvatar": "https://i.pravatar.cc/150?u=jannat",
+        "rating": 5,
+        "comment": "Super fresh! Ordered two packages together."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Lychee Flower Honey",
+    "price": 275,
+    "description": "Floral, delicate, and sweet",
+    "image": "/images/lychee.jpg",
+    "inStock": 20,
+    "likes": 175,
+    "rating": 4.8,
+    "reviewCount": 22,
+    "availability": "In Stock",
+    "supplierEmail": "honey.lychee@deshiroot.com",
+    "comments": [
+      {
+        "id": "c801",
+        "userName": "Kamrul Hasan",
+        "userAvatar": "https://i.pravatar.cc/150?u=kamrul",
+        "rating": 5,
+        "comment": "Unique floral aftertaste! Very light and pleasant."
+      },
+      {
+        "id": "c802",
+        "userName": "Sumaiya Akter",
+        "userAvatar": "https://i.pravatar.cc/150?u=sumaiya",
+        "rating": 5,
+        "comment": "Authentic honey from Dinajpur lychee orchards. Amazing quality."
+      },
+      {
+        "id": "c803",
+        "userName": "Asif Iqbal",
+        "userAvatar": "https://i.pravatar.cc/150?u=asif",
+        "rating": 4,
+        "comment": "Good packaging and fast delivery."
+      }
+    ]
+  }
+]
